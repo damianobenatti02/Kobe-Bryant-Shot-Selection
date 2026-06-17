@@ -1,4 +1,4 @@
-# Kobe Bryant Shot Selection 🏀
+# Kobe Bryant Shot Selection
 
 ## Project Objective
 This repository contains the project based on the Kaggle competition [Kobe Bryant Shot Selection](https://www.kaggle.com/competitions/kobe-bryant-shot-selection).
