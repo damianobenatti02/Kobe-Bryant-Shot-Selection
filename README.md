@@ -7,7 +7,6 @@ The objective is to develop a machine learning model in Python to estimate the p
 
 ## Repository Structure
 * `/software`: Contains the Jupyter Notebook with data analysis, feature engineering, and model development, as well as the technical instructions to run the code.
-* `/doc`: Contains the final project presentation created in LaTeX Beamer.
 
 ## Results & Performance
 During the model evaluation phase, two main algorithms were tested and compared: **XGBoost** and **Random Forest**. The performance difference between the two models on the Validation set was extremely tight (less than 1%). However, the **Random Forest Classifier** slightly outperformed XGBoost and was therefore selected as the final model for this project. 
